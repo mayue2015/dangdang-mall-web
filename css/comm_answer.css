@@ -1,0 +1,135 @@
+*{padding:0;margin:0}
+img{border:0}
+a{color:#1a66b3; text-decoration:none}
+a:hover{color:#1a66b3; text-decoration:underline}
+.empty_clear_left{ clear:left; height:0px; overflow:hidden}
+.empty_clear_right{clear:right; height:0px; overflow:hidden}
+.empty_box{ clear:both; height:0px; overflow:hidden}
+
+.comm_answer input{vertical-align: middle; font-size:12px}
+.comm_answer em{ color:#cc3300; font-style:normal}
+.comm_answer .a_red28b{	color:#cc3300; font-size:28px; font-family: Arial;font-weight:bold}
+.comm_answer .pd{ padding: 0 2px; }
+.comm_answer .t_gray{ color:#878787; }
+.comm_answer .t_gray a{ color:#878787; text-decoration:none}
+.comm_answer .t_gray a:hover{ color:#878787; text-decoration:underline}
+.comm_answer .price_old{ text-decoration:line-through}
+
+.comm_answer .red_bold{color:#cc3300; font-weight:bold}
+.comm_answer .red_bold_2{color:#fe7100; font-weight:bold}
+.comm_answer .red_nostrong{color:#cc3300}
+.comm_answer .yellow{color:#b18850;width:100px; }
+.comm_answer .yellow1{clear:right; width:90px; color:#b18850}
+.comm_answer .text_bold{ font-weight:bold}
+.comm_answer{ width:751px; padding:15px 0; line-height: normal;color:#404040 }
+.comm_answer .gray_n{ color:#666; font-weight:normal}
+.comm_answer .font12{ font-size:12px}
+.comm_answer .total_comm{ padding-bottom:10px}
+.comm_answer .comm_title{ padding:7px 10px 0 8px; height:20px; background-color:#d5e5f4; border-top:solid 1px #88aac6; }
+.comm_answer .comm_title h2{ font-size:14px; float:left; font-weight: bolder;}
+.comm_answer .red_norm{ color:#c30; font-weight:normal}
+.comm_answer .look_comm{ font-size:12px; margin-left:7px; font-weight:normal;}
+.comm_answer .total_body{ background-color: #fff8e5; border-top:1px solid #d2cab5; height:50px; padding-top:13px; border-bottom:1px solid #d2cab5; margin-top:1px; line-height: normal }
+.comm_answer .people_average{ float:left; width:160px; padding-left:35px; height:50px}
+.comm_answer .average_left{ width:148px; height:50px; float:left; font-size:14px}
+.comm_answer .average_left p{ height:12px; overflow:hidden; padding-left:18px; font-size:12px}
+.comm_answer .people_average img{ margin-right:2px; }
+.comm_answer .span_jt{ display:block; float:left; width:12px; height:12px; padding-top:12px; overflow:hidden}
+.comm_answer .people_heart{ float:left; padding-left:40px; height:18px; padding-top:12px}
+.comm_answer .people_read{ float:left; padding-left:40px; height:15px; padding-top:12px}
+
+.comm_answer .write_comm{ float:right; margin-right:30px!important;>margin-right:30px!important; margin:7px 15px 0 0; width:120px; height:40px; text-align:center}
+.comm_answer .red_space{color:#c30; margin:0 2px}
+
+.comm_answer .button_down1{ width:15px; height:16px; background:url(../images/button_down1.gif) no-repeat; border:0; cursor:pointer}
+.comm_answer .button_down2{ width:15px; height:16px; background:url(../images/button_down2.gif) no-repeat; border:0; cursor:pointer}
+.comm_answer .comm_list{ width:749px; margin:auto; border:1px solid #b6c6d3; margin-bottom:11px; word-break:break-all; word-wrap:break-word; overflow:hidden}
+.comm_answer .comm_list_bg{ margin:1px; width:747px; background-color:#e8f4ff; }
+.comm_answer .buyer{ width:130px; float:left; margin:0px}
+.comm_answer .buyer_pic{ margin:11px 5px 8px 10px; width:114px; height:59px; }
+.comm_answer .buyer_pic_bg{ padding-left: 3px; float:left; width:56px; height:59px; background:url(../images/user_bg.gif) no-repeat right top;}
+.comm_answer .buyer_pic_bg img{ width:48px; height:48px; margin:4px; }
+.comm_answer .buyer_city{ color:#878787; padding-top:2px;}
+.comm_answer .buyer_num{ float:left; margin-top:10px; margin-left:7px; color:#878787; font-size:10px; font-family: Arial }
+.comm_answer .buyer_num a{ color: #878787; }
+.buyer_num a:hover{ color: #878787; }
+.comm_answer .buyer_num01 img{ margin-right: 6px; vertical-align: middle }
+.comm_answer .buyer_num02 img{ margin-right: 4px; vertical-align: middle }
+.comm_answer .buyer_num01{ margin-top:10px;}
+.comm_answer .buyer_num02{ margin-top:9px;}
+.comm_answer .buyer p{ margin:0 10px; padding-left:7px;  }
+.comm_answer .buyer_cheer{ margin:5px 10px 0 10px; padding-top:10px; color:#404040;background:url(../images/bg_user_line.gif) repeat-x 0px 0px; }
+.comm_answer .buyer_cheer p{ line-height:18px; margin: 0px; }
+.comm_answer .special_pic{ margin:2px 0 7px 8px}
+.comm_answer .buyer .buyer_comm p{ padding-top:7px;word-break:break-all;word-wrap:break-word; overflow:hidden}
+.comm_answer .buyer_comm{ width:616px; margin:0px;  border-left:1px solid #fff; background-color: #fff; float:left}
+.comm_answer .buyer_comm .center_topbg{margin:9px 20px 0 20px;}
+.comm_answer .title_time{ padding:0 0px 4px 0px; height:18px;}
+.comm_answer .title_time .label_p{float:left}
+.comm_answer .title_time .label_p img{ margin-right:5px;}
+.comm_answer .title_time h3{ width:400px; font-size:12px; padding-top:3px; float:left; font-weight: bolder;}
+.comm_answer .title_time h3 a{ color: #404040; }
+.comm_answer .title_time h3 a:hover{ color: #404040; }
+.comm_answer .comm_result{padding:0 0px 10px 0px; color:#8b8b8b;}
+.comm_answer .comm_result span{ float:left; display:block; padding-top:4px}
+.comm_answer .comm_result img{ float:left; margin-top:3px}
+.comm_answer .comm_result .span_space{ padding-left:9px!important;>padding-left:12px!important;padding-left:9px}
+.comm_answer .comm_result .span_star{ padding-left:9px!important;>padding-left:12px!important;padding-left:9px;padding-right:9px!important;>padding-right:12px!important;padding-right:9px; padding-top:0}
+.comm_answer .comm_result .star_mod{ padding-left:3px!important;>padding-left:6px!important;padding-left:3px;padding-right:9px!important;>padding-right:12px!important;padding-right:9px; padding-top:0}
+.comm_answer .buyer_comm .center_border{ width:580px; margin-left:8px; padding:3px 6px 8px 12px; min-height:70px; height:70px; line-height:20px; background:url(../images/xuxian_x.gif) repeat-x top}
+div[class].comm_answer .center_border{height: auto;}
+.comm_answer .appear_time{ color:#8b8b8b; height:25px}
+.comm_answer .reading{padding:4px 0 0 21px; background-color:#efefef; height:20px; }
+.comm_answer .reading .reply{ float:left; padding-top:3px!important; >padding-top:4px!important; padding-top:4px;}
+.comm_answer .reading .good_use2{ float:right; color:#878787; padding-right:3px}
+.comm_answer .reading .good_use2 div{ float:left; padding-top:3px!important; >padding-top:4px!important; text-align:right; }
+.comm_answer .reading .good_use2 img{ float:left; margin-left:3px; margin-right:5px; margin-top:2px;}
+.comm_answer .buyer_comm .already{ clear:both; color:#cc3300; text-align:right; padding-right: 7px; height:14px; }
+.comm_answer .no_comm{ float:left; width:200px; padding-left:40px; height:50px; line-height:50px; font-size:14px}
+.comm_answer .look_all{ height:50px; text-align:right}
+.comm_answer .look_all .ff{ font-size:14px; font-weight:bolder}
+.comm_answer .merch_answer{padding:7px 10px 0 8px; height:20px; background-color:#fff1cc; border-top:solid 1px #b4a57a; font-size:14px; font-weight:bold}
+.comm_answer .answer_list{ padding:10px 0; border-bottom:solid 1px #b0b0b0}
+.comm_answer .list_title{ height:18px; padding:0 5px}
+.comm_answer .list_title .label_m{float:left}
+.comm_answer .list_title h3{ width:410px; height:13px; padding:2px 10px 0 5px; font-size:12px; display:block; float:left; font-weight: bolder;}
+.comm_answer .list_title h3 a{ color: #404040; }
+.comm_answer .list_title h3 a:hover{ color: #404040; }
+.comm_answer .list_title .date{ width:250px; padding-top:2px; float:left; text-align:right; color:#9b9b9b}
+.comm_answer .answer_content{ padding:7px 0 7px 71px; line-height:18px}
+.comm_answer .a_message{ padding:7px 5px 7px 71px; background-color:#f2f2f2}
+.comm_answer .a_message h3{ font-size:12px; font-weight: bolder;}
+.comm_answer .a_message .content{ padding-top:6px; line-height:18px}
+.comm_answer .answer_all{ padding-top:15px; padding-right:12px; text-align:right; color:#9b9b9b}
+.comm_answer .r_ask{ padding-top:8px; text-align:right; color:#9b9b9b}
+.comm_answer .back_top{ padding-top:20px; text-align:right;}
+
+.window_star{ position:absolute; display:none; color:#404040; width: 270px; border: 1px solid #cacaca; background:#fff url(../images/w_body_bg.gif) repeat-x bottom; height: 140px;}
+.window_star h2{ font-size: 12px; font-weight: normal; background: url(../images/w_title_bg.gif) repeat-x; line-height: 23px; padding-left: 13px; border-bottom: 1px solid #cacaca; }
+.window_star .window_close{ float: right; text-align: righ; margin: 4px; }
+.window_star ul{ list-style: none; margin: 12px 0 0 12px; width:258px; }
+.window_star li{ line-height: 19px; }
+.window_star .star_line{ float: left; }
+.window_star .star_line img{ margin-right:1px; }
+.energy_line{ float: left; width: 120px; height: 12px; border: 1px solid #ababab; background-color: #fff; margin: 0 6px; }
+.energy_line img{ height: 12px; }
+
+.w_master{position:absolute; display:none;  color:#404040; width:122px; border: 1px solid #8c8c8c; background-color:#fff}
+.w_master .m_left{ width:106px; float:left; }
+.m_left ul{ list-style:none; margin-top:10px}
+.m_left li{ height:22px; display:block}
+.m_left li span{ float:left; display:block}
+.m_left li .number{ color:#cc3300; text-align:right; width:36px; margin-left:0}
+.m_left .l_b{ margin-bottom:0}
+.w_master input{ float:left; width:15px; height:16px; border:0;cursor:hand; margin-top:3px}
+.button_up1{ background:url(../images/button_down1.gif) no-repeat }
+.button_up2{background:url(../images/button_down2.gif) no-repeat }
+.comm_window .b_add{ width:151px}
+
+.window_txt{position:absolute; display:none;  color:#404040; width: 233px; border: 1px solid #b3a171; background-color: #fff; }
+.window_txt_bg{ border: 3px solid #f8ebc9; }
+.window_txt ul{ list-style: none; margin: 0px; padding:6px 5px 0 8px; width:221px; }
+.window_txt li{ background: url(../images/icon_dot.gif) no-repeat 0px 6px; padding: 0 0 10px 9px; line-height: 18px; }
+.window_txt .listline{ padding-bottom: 0px!important; }
+.window_txt .txt_more{ padding-left: 17px; }
+.window_bot_close{ text-align: right; margin: 0 3px 3px 0; }
